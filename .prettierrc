@@ -1,0 +1,15 @@
+{
+  "printWidth": 80,
+  "tabWidth": 4,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": "*.php",
+      "options": {
+        "parser": "php",
+        "phpVersion": "7.4"
+      }
+    }
+  ]
+}
